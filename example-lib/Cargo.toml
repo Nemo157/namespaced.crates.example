@@ -8,4 +8,4 @@ edition = "2018"
 
 [dependencies]
 serde = { version = "1.0.99", registry = "serde-example" }
-uuid = { version = "0.7.4", registry = "uuid-example" }
+uuid = { version = "0.7.4", registry = "uuid-example", features = ["serde"] }
