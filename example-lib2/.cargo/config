@@ -1,0 +1,2 @@
+[registries]
+uuid-example = { index = "file:///tmp/namespaced.crates.example/uuid" }
