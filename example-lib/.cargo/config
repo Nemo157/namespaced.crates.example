@@ -1,2 +1,3 @@
 [registries]
 serde-example = { index = "file:///tmp/namespaced.crates.example/serde" }
+uuid-example = { index = "file:///tmp/namespaced.crates.example/uuid" }
